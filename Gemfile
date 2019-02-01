@@ -6,6 +6,9 @@ group :jekyll_plugins do
     gem 'rdiscount'
     gem 'jekyll-sitemap'
     gem 'jekyll-redirect-from'
+    gem 'jekyll-paginate'
+    gem 'jekyll-gist'
+    gem 'rogue'
 end
 
 gem 'sassc'
