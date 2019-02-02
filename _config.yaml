@@ -1,9 +1,7 @@
-source: app
+#source: app
 destination: web
 
 url: http://marajade.github.io
 permalink: pretty
 
 encoding: utf-8
-
-remote_theme: codeasashu/hcz-jekyll-blog
