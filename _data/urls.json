@@ -16,9 +16,19 @@
     "icon": "fa-desktop"
   },
   {
+    "text": "Writing",
+    "url": "/writing",
+    "icon": "fa-desktop"
+  },
+  {
+    "text": "Podcast",
+    "url": "/podcast",
+    "icon": "fa-desktop"
+  },
+  {
     "text": "Resume",
     "url": "/#",
-    "icon": "fa-graduation-cap",
+    "icon": "fa-graduation-cap"
   },
   {
     "text": "Github",
