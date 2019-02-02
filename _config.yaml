@@ -19,7 +19,7 @@ share:
   fb_appid: 000000000000
 
 enableTags: true
-tagarray: []
+tagarray: [python, c, html, ruby, php]
 
 paginate: 20
 per_page: 20
