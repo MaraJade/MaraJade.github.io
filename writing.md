@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: writings 
 title: Writings
 permalink: /writing/
 ---
