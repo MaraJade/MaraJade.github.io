@@ -19,7 +19,8 @@ share:
   fb_appid: 000000000000
 
 enableTags: true
-tagarray: []
+projectarray: []
+writingarray: []
 
 paginate: 20
 per_page: 20
