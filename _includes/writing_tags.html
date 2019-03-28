@@ -2,8 +2,8 @@
 	<div id="tag-filter" class="col-md-12 col-xs-12 tag-group">
 		<span class="label tag-filter tag-cloud all">Reset</span>
         {% assign writingarray = site.writingarray %}
-        {% for project in site.data.projects %}
-            {% for tag in project.tags %}
+        {% for writing in site.data.writings %}
+            {% for tag in writings.tags %}
                 {% assign writingarray = writingarray | push: tag %}
             {% endfor %}
         {% endfor %}
