@@ -1,30 +1,23 @@
 [
 	{
-		"name": "Cool project 1",
+		"name": "JustNoBot",
 		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Python"]
+		"url": "https://github.com/MaraJade/JustNoBot",
+		"date": "November 2018",
+		"tags": ["Python","PRAW","squlite3"]
 	},
 	{
-		"name": "Cool project 2",
+		"name": "MaraJade.github.io",
 		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "May 2014",
-		"tags": ["PHP"]
+		"url": "https://github.com/MaraJade/MaraJade.github.io",
+		"date": "January 2019",
+		"tags": ["Ruby","Jekyll"]
 	},
 	{
-		"name": "Cool project 3",
+		"name": "Martin Creek Quarry Website",
 		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "June 2014",
-		"tags": ["HTML","PHP"]
-	},
-	{
-		"name": "Cool project 4",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["nodejs"]
+		"url": "https://github.com/MaraJade/martincreekquarry",
+		"date": "June 2016",
+		"tags": ["Python","Wok"]
 	}
-
 ]
