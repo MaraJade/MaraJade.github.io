@@ -9,12 +9,6 @@ main:
     url: /writing/
   - title: "Podcast"
     url: /podcast/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com
 
 # Sidebar menu
 # Use by putting
