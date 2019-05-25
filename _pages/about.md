@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hey there! I'm Mara, and I'm in charge of this mess. This is attempt number
+something for my website, but I think I've finally found a setup that works for
+me, and hopefully that will encourage me to use it as regularly as I want to!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+If you didn't figure it out from the name of the site, or my username, I am a
+massive nerd in general, and obsessed with Star Wars specifically. I'm also just
+finishing my computer science degree, so add computers to my list of interests.
+Yes, that includes video games as well!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I do a bit of writing, and have some plans for a podcast. I have so many plans,
+I just hope I can actually do them!

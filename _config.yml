@@ -313,9 +313,6 @@ defaults:
       share: true
 
 collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   writing:
     output: true
     permalink: /:collection/:path/
