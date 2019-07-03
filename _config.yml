@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "MaraJade"
 description              : "The place I share my nerdiness with the world"
 url                      : "https://marajade.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "MaraJade/MaraJade.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -229,6 +229,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -238,6 +239,7 @@ plugins:
 
 # mimic GitHub Pages with --safe
 whitelist:
+  - jekyll
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -303,10 +305,18 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
+  # _writing
   - scope:
       path: ""
-      type: portfolio
+      type: writing 
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _podcast
+  - scope:
+      path: ""
+      type: podcast 
     values:
       layout: single
       author_profile: false

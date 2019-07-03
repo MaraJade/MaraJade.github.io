@@ -1,10 +1,10 @@
 main:
   - title: "Home"
-    url: /home/
+    url: /
   - title: "About"
     url: /about/
   - title: "Posts"
-    url: /year-archive/
+    url: /posts/
   - title: "Writing"
     url: /writing/
   - title: "Podcast"
