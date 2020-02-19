@@ -3,11 +3,11 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/succulent.jpg
+  overlay_image: /assets/images/profilepic.png
 excerpt: >
   My personal blog. A place for nerdiness!
 feature_row:
-  - image_path: /assets/images/succulent.jpg
+  - image_path: /assets/images/profilepic.png
     alt: "blog"
     title: "Blog"
     excerpt: "My random blog posts!"
