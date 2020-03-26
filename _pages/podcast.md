@@ -13,13 +13,13 @@ The podcast!
 (Hopefully if I put this out there I'll be motivated to actually do it)
 
 ---------------------
-### Podcasts I listen to:
+## Podcasts I listen to:
 
 These are the podcasts I listen to at the moment, I highly recommend checking
 them all out!
 
 --------
-#### History:
+### History:
 
 [The History of Rome](https://thehistoryofrome.typepad.com/)
 
@@ -40,7 +40,7 @@ them all out!
 [The Way I Heard It](https://mikerowe.com/podcast/)
 
 -----------------------
-#### Science and Technology:
+### Science and Technology:
 
 [Still Untitled: The Adam Savage Project](https://www.tested.com/podcast/still-untitled-the-adam-savage-project/)
 
@@ -51,7 +51,7 @@ them all out!
 [The Best Thing Since Sliced Bread?](https://www.bbc.co.uk/programmes/p07012sf/episodes/downloads)
 
 ------------------
-#### Two Dudes Talking:
+### Two Dudes Talking:
 
 [Hello Internet](https://www.hellointernet.fm/)
 
@@ -60,6 +60,7 @@ them all out!
 [The Unmade Podcast](https://www.unmade.fm/)
 
 -------------------
-#### Dungeons & Dragons:
+### Dungeons & Dragons:
 
 [Crit Academy](https://www.critacademy.com/)
+
