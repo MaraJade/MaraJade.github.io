@@ -14,14 +14,14 @@ feature_row:
     url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Read"
-  - image_path: /assets/images/succulent.jpg
+  - image_path: /assets/images/fountain_pen.jpg
     alt: "writing"
     title: "Writing"
     excerpt: "I write short stories occasionally, check them out!"
     url: "/writing/"
     btn_class: "btn--primary"
     btn_label: "Read"
-  - image_path: /assets/images/succulent.jpg
+  - image_path: /assets/images/star-wars-logo.jpg
     alt: "podcast"
     title: "Podcast"
     excerpt: "I have some ambitious plans for a podcast, check it out!"
@@ -31,8 +31,8 @@ feature_row:
 author_profile: true
 ---
 
-Welcome! I think I might have finally figured this whole website thing out, so
-bear with me as I get it up and running properly!
+Welcome to my website where I share my random thoughts, stories, and gaming
+adventures!
 
 {% include feature_row %}
 
