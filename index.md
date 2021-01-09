@@ -14,6 +14,13 @@ feature_row:
     url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Read"
+  - image_path: /assets/images/Octocat.png
+    alt: "projects"
+    title: "Projects"
+    excerpt: "My various software projects, check them out!"
+    url: "/projects/"
+    btn_class: "btn--primary"
+    btn_label: "View"      
   - image_path: /assets/images/fountain_pen.jpg
     alt: "writing"
     title: "Writing"
@@ -28,6 +35,7 @@ feature_row:
     url: "/podcast/"
     btn_class: "btn--primary"
     btn_label: "Read"      
+
 author_profile: true
 ---
 
