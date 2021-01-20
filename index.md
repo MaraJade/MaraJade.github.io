@@ -28,13 +28,6 @@ feature_row:
     url: "/writing/"
     btn_class: "btn--primary"
     btn_label: "Read"
-  - image_path: /assets/images/star-wars-logo.jpg
-    alt: "podcast"
-    title: "Podcast"
-    excerpt: "I have some ambitious plans for a podcast, check it out!"
-    url: "/podcast/"
-    btn_class: "btn--primary"
-    btn_label: "Read"      
 
 author_profile: true
 ---
