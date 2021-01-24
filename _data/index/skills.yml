@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Python, C, Javacript, Ruby, SQL, Github, Docker
+percentage: 90, 50, 35, 25, 45, 85, 40
