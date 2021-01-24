@@ -1,9 +1,8 @@
 ---
+layout: post
 title: "Databases run the world"
-categories: 
-  - posts
-tags:
-  - programming
+categories: [Software]
+tags: [programming]
 ---
 
 Somehow in my databases class I missed the *very* important fact that pretty
