@@ -1,0 +1,24 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: maraJade.github.io
+  i18n: jalpc
+  gh_user: MaraJade
+  repo: MaraJade.github.io
+  img: /static/assets/img/landing/jekyll.png
+  desc: The repo for this site!
+
+- name: JustNoBot
+  i18n: cpython
+  gh_user: MaraJade
+  repo: JustNoBot
+  img: /static/assets/img/landing/python.png
+  desc: The subscription bot for the JustNoNetwork of subreddits
+
+- name: Martin Creek Quarry
+  i18n: google
+  url: https://martincreekquarry.com
+  gh_user: MaraJade
+  repo: martincreekquarry
+  #img: /static/assets/img/landing/google.png
+  desc: The webpage I maintain for RR Aggragate, LLC, for the Martin Creek and Hawley Creek quarries

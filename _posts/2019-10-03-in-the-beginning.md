@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "The Beginning"
-categories: 
-  - posts
+categories: [Life]
 ---
 
 "A beginning is the time for taking the most delicate care that the balances are
