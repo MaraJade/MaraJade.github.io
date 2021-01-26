@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: Human Females
-categories: writing
+categories: [Writing]
 ---
 
 "Commander Tl'lack, you must have a very good reason for losing Rek'na Prime." Admiral Tl'rek tapped a claw on the reports. "A *very* good explanation, indeed, for the loss of 2 battalions of our elite Rejan soldiers."

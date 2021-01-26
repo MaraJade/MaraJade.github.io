@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: Thunder From Hell
-categories: writing
+categories: [Writing]
 ---
 
 Humans are insane. "Well of course," you say, "This has be said before." And I realize this. There have been studies done, entire books written about it. They cover topics from the way they fight, to their "extreme sports," even their music. But I have recently discovered something that everyone seems to have missed.

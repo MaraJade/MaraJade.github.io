@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: Home is Behind
-categories: writing
+categories: [Writing]
 ---
 
 Home is behind, the world ahead

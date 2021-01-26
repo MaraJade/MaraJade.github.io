@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post
 title: The Contradictions of Humans
-categories: writing
+categories: [Writing]
 ---
 
 Day 17:
