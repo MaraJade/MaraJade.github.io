@@ -1,9 +1,7 @@
 ---
 title: "Template"
-categories: 
-  - posts
-tags:
-  - template
+categories: [Life]
+tags: [template]
 ---
 
 Test post, please ignore.
