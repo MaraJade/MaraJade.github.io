@@ -13,7 +13,7 @@
     detail: Web Devloper
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
     detail: OSU Open Source Lab

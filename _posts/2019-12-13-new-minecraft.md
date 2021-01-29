@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "SevTech: Take... 5?"
-categories: [Minecraft]
-tags: [games] 
+categories: [Games]
+tags: [minecraft]
 ---
 
 I've only shared a few screenshots from my current Minecraft base, and now I

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "More Skyrim"
-categories: [Skyrim]
-tags: [games]
+categories: [Games]
+tags: [skyrim]
 ---
 
 More skyrim!

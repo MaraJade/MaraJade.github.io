@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "SevTech Again"
-categories: [Minecraft]
-tags: [games]
+categories: [Games]
+tags: [minecraft]
 ---
 
 The devs updated SevTech, and in doing so they fixed several issues with plugins

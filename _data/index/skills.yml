@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Python, C, Javacript, Ruby, SQL, Github, Docker
-percentage: 90, 50, 35, 25, 45, 85, 40
+aspects: Python, C, Javacript, Ruby, SQL, Docker, Github, Linux
+percentage: 85, 50, 35, 25, 45, 40, 80, 75

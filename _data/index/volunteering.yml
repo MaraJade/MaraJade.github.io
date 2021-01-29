@@ -1,0 +1,59 @@
+# volunteering section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Lucky Paws Rescue
+    i18n: company_a
+  desc:
+    detail: Helped to care for animals evacuated during the fall firestorms
+    i18n: company_a_desc
+  date:
+    detail: Sept. 2020
+    i18n: company_a_date
+  job:
+    detail: Volunteer
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: Forum Bot Maintainer
+    i18n: company_b
+  desc:
+    detail: Maintaining and updating my subscription bot for the JustNoNetwork
+    i18n: company_b_desc
+  date:
+    detail: 2019
+    i18n: company_b_date
+  job:
+    detail: Volunteer
+    i18n: company_b_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Forum Moderator
+    i18n: company_b
+  desc:
+    detail: Developed a subscription bot, as well as updating and maintaing all bots that assist with moderating
+    i18n: company_b_desc
+  date:
+    detail: 2018
+    i18n: company_b_date
+  job:
+    detail: Volunteer Technical Moderator
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: OSU Linux Users Group
+    i18n: company_b
+  desc:
+    detail: Helped organize and run weekly meetings and events
+    i18n: company_b_desc
+  date:
+    detail: 2013
+    i18n: company_b_date
+  job:
+    detail: Webmaster
+    i18n: company_b_job
+  icon: fa-plus-square

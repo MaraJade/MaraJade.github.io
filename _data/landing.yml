@@ -24,6 +24,12 @@
   tpl: career.html
   css: timeline
 
+- id: volunterring
+  i18n: nav.volunteering
+  name: Volunteering
+  tpl: volunteering.html
+  css: timeline
+
 - id: blog
   i18n: nav.blog
   name: Blog

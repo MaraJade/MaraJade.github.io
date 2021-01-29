@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "So much Skyrim"
-categories: [Skyrim]
-tags: [games]
+categories: [Games]
+tags: [skyrim]
 ---
 
 Are you tired of Skyrim posts yet? I am! That's why I've been having such
