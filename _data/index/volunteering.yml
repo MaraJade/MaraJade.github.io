@@ -19,7 +19,7 @@
     detail: Forum Bot Maintainer
     i18n: company_b
   desc:
-    detail: Maintaining and updating my subscription bot for the JustNoNetwork
+    detail: Refactored code to improve efficiency and readability. Continue to update and improve subscription bot for large forums. Migrated database from single table to relational table setup. Migrated database from sqlite to postgresql. Created Docker containers for bot and database for ease of development, testing, and deployment. Moved bot and database to AWS ECS instances for hosting
     i18n: company_b_desc
   date:
     detail: 2019
@@ -32,28 +32,28 @@
 
 - name:
     detail: Forum Moderator
-    i18n: company_b
+    i18n: company_c
   desc:
-    detail: Developed a subscription bot, as well as updating and maintaing all bots that assist with moderating
-    i18n: company_b_desc
+    detail: Developed subscription bot for forums of over 100,000 users. Updated and streamlined forum bot code for ease of use and readability. Updated, streamlined, and organized forum appearance and styling, increasing ease of use and readability
+    i18n: company_c_desc
   date:
     detail: 2018
-    i18n: company_b_date
+    i18n: company_c_date
   job:
     detail: Volunteer Technical Moderator
-    i18n: company_b_job
+    i18n: company-c-job
   icon: fa-plus-square
 
 - name:
     detail: OSU Linux Users Group
-    i18n: company_b
+    i18n: company_d
   desc:
     detail: Helped organize and run weekly meetings and events
-    i18n: company_b_desc
+    i18n: company_d_desc
   date:
     detail: 2013
-    i18n: company_b_date
+    i18n: company_d_date
   job:
     detail: Webmaster
-    i18n: company_b_job
+    i18n: company_d_job
   icon: fa-plus-square

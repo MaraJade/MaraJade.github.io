@@ -2,8 +2,17 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/profilepic.png
-  title: Me in a previous SevTech iteration
+# - src: landing/profilepic.png
+#   title: Me in a previous SevTech iteration
 
-- src: landing/succulent.png
-  title: My succulent
+# - src: landing/succulent.png
+#   title: My succulent
+
+- src: landing/profilepic.jpg
+  title: Phantom cat art
+
+- src: landing/AmaruFoundersPackDesktopWallpaper.png
+  title: Amaru Founder's Pack Desktop Wallpaper
+
+- src: landing/99-bugs-in-the-code.jpeg
+  title: 99 little bugs in the code

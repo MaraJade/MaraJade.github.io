@@ -14,11 +14,3 @@
   repo: JustNoBot
   img: /static/assets/img/landing/python.png
   desc: The subscription bot for the JustNoNetwork of subreddits
-
-- name: Martin Creek Quarry
-  i18n: google
-  url: https://martincreekquarry.com
-  gh_user: MaraJade
-  repo: martincreekquarry
-  #img: /static/assets/img/landing/google.png
-  desc: The webpage I maintain for RR Aggragate, LLC, for the Martin Creek and Hawley Creek quarries

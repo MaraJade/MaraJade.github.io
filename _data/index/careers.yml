@@ -1,44 +1,61 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
 - name:
-    detail: IEQ Technology, Inc.
+    detail: Aspiration, Inc.
     i18n: company_a
   desc:
-    detail: Designed and developed webapps in PHP. Increased maintainability of websites by migrating and updating PHP. Designed and implemented themes for WordPress sites.
+    detail: Created product and engineering documentation in Confluence for the formerly undocumented customer service system, including screenshots, flow diagrams, database interaction, and infrastructure dependencies. Optimized Golang code by abstracting common functionality and vendor API code into separately maintained packages, eliminating an entire category of bugs. Streamlined tests by removing fragile and duplicate code across several repositories in favor of a standardized, concurrent model, dramatically improving CI/CD processing time. Led the development effort to standardize audit trail generation across several Golang repositories, augmenting the granularity of tracked changes and integrating GeoIP data. Proposed and assisted with the implementation of standardized documentation as part of the development workflow, significantly improving the ongoing validity of the product and engineering documentation. Participated in the design of the automated account closure subsystem; led the vendor integration of Galileo. Became the subject matter expert for Golang API integrations including Galileo, Maxmind, and AWS S3. Lead team meetings including daily standups and biweekly sprint grooming and planning sessions. Provided code reviews and feedback for internal teams and offshore contracting teams
     i18n: company_a_desc
   date:
-    detail: Dec. 2016
+    detail: Jan. 2022
     i18n: company_a_date
   job:
-    detail: Web Devloper
+    detail: Software Engineer - Backend
     i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+
+- name:
+    detail: IEQ Technology, Inc.
+    i18n: company_b
+  desc:
+    detail: Designed and developed webapps in PHP. Increased maintainability of websites by migrating and updating PHP. Designed and implemented themes for WordPress sites.
+    i18n: company_b_desc
+  date:
+    detail: Dec. 2016
+    i18n: company_b_date
+  job:
+    detail: Web Devloper
+    i18n: company_b_job
   icon: fa-plus-square
   present: false
 
 - name:
     detail: OSU Open Source Lab
-    i18n: company_b
+    i18n: company_c
   desc:
     detail: Met with clients to determine requirements for various APIs. Designed and implemented APIs in Django and NodeJS. Designed and developed webapps in Flask to utilize created APIs. Designed and developed plugins for Github and Fenestra in Ruby.
-    i18n: company_b_desc
+    i18n: company_c_desc
   date:
     detail: May 2014
-    i18n: company_b_date
+    i18n: company_c_date
   job:
     detail: Student Developer
-    i18n: company_b_job
+    i18n: company_c_job
   icon: fa-plus-square
 
 - name:
     detail: OSU Central Web Services
-    i18n: company_b
+    i18n: company_d
   desc:
     detail: Met with and assisted clients with determining themes for websites. Designed and implemented themes for websites using Drupal. Designed and developed modules for Drupal website administration.
-    i18n: company_b_desc
+    i18n: company_d_desc
   date:
     detail: Mar. 2012
-    i18n: company_b_date
+    i18n: company_d_date
   job:
     detail: Student Developer
-    i18n: company_b_job
+    i18n: company_d_job
   icon: fa-plus-square
